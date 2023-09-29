@@ -29,7 +29,7 @@ const DropDown = ({ onSelectedOpportunity, selectedOpportunity }: Props) => {
         <MenuList width={"300px"}>
           {MenuData.map((data: MenuType) => (
             <MenuItem 
-            key={data.title}
+
               onClick={() => onSelectedOpportunity(data)}
               display={"flex"}
               justifyContent={"space-between"}
