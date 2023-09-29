@@ -1,0 +1,83 @@
+[
+    {
+      "id":1,
+      "name": "John Doe",
+      "city": "New York",
+      "country": "USA",
+      "degree": "Bachelor of Science",
+      "university": "Boston University",
+      "yearOfPassing": 2022,
+      "yearOfStarting": 2018,
+      "ImageUrl": "https://images.pexels.com/photos/1906157/pexels-photo-1906157.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "tagArray": ["#programming", "#dataanalysis", "#webdevelopment"],
+      "skill": ["JavaScript", "Python", "Data Analysis"]
+    },
+    {
+      "id":2,
+      "name": "Jane Smith",
+      "city": "Los Angeles",
+      "country": "USA",
+      "degree": "Master of Arts",
+      "university": "Texas College",
+      "yearOfPassing": 2021,
+      "yearOfStarting": 2017,
+      "ImageUrl": "https://images.pexels.com/photos/2340978/pexels-photo-2340978.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "tagArray": ["#design", "#creativity", "#art"],
+      "skill": ["Graphic Design", "Adobe Illustrator"]
+    },
+    {
+      "id":3,
+        "name": "John Doe",
+        "city": "New York",
+        "country": "USA",
+        "degree": "Bachelor of Science",
+        "university": "Boston University",
+        "yearOfPassing": 2022,
+        "yearOfStarting": 2018,
+        "ImageUrl": "https://images.pexels.com/photos/1906157/pexels-photo-1906157.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "tagArray": ["#programming", "#dataanalysis", "#webdevelopment"],
+        "skill": ["JavaScript", "Python", "Data Analysis"]
+      },
+    {
+      "id":4,
+        "name": "John Doe",
+        "city": "New York",
+        "country": "USA",
+        "degree": "Bachelor of Science",
+        "university": "Boston University",
+        "yearOfPassing": 2022,
+        "yearOfStarting": 2018,
+        "ImageUrl": "https://images.pexels.com/photos/1906157/pexels-photo-1906157.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "tagArray": ["#programming", "#dataanalysis", "#webdevelopment"],
+        "skill": ["JavaScript", "Python", "Data Analysis"]
+      },
+    {
+      "id":5,
+        "name": "John Doe",
+        "city": "New York",
+        "country": "USA",
+        "degree": "Bachelor of Science",
+        "university": "Boston University",
+        "yearOfPassing": 2022,
+        "yearOfStarting": 2018,
+        "ImageUrl": "https://images.pexels.com/photos/1906157/pexels-photo-1906157.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "tagArray": ["#programming", "#dataanalysis", "#webdevelopment"],
+        "skill": ["JavaScript", "Python", "Data Analysis"]
+      }
+      ,
+      {
+        "id":6,
+        "name": "Jane Smith",
+        "city": "Los Angeles",
+        "country": "USA",
+        "degree": "Master of Arts",
+        "university": "Texas College",
+        "yearOfPassing": 2021,
+        "yearOfStarting": 2017,
+        "ImageUrl": "https://images.pexels.com/photos/2340978/pexels-photo-2340978.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "tagArray": ["#design", "#creativity", "#art"],
+        "skill": ["Graphic Design", "Adobe Illustrator"]
+      }
+
+  ]
+  
